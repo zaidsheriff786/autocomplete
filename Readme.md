@@ -1,4 +1,4 @@
-# 🔍 Autocomplete search
+# 🔍 Autocomplete Search
 
 An autocomplete search component
 
