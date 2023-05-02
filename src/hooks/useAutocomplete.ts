@@ -57,7 +57,6 @@ const useAutocomplete = (
     setSuggestions([]);
     setSelectedSuggestion(value);
     setActiveSuggestion(0);
-    //do something else
   };
 
   return {
